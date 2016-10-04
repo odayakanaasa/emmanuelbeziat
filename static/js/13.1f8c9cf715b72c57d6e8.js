@@ -1,2 +1,0 @@
-webpackJsonp([13,4],{303:function(e,i){e.exports={rawContent:"\nCe projet datant un peu, je n’ai plus grand chose à disposition ! { .c-note .c-note--info }\n",metaData:{title:"Liebig",image:"liebig",date:"2015-08-22 00:00:00",tags:["html/css","javascript","wordpress"],clients:["Liebig","Publicis Dialog","Italic"],categories:["non-classe"],template:"post",description:"",disqus:!0,publish:!0}}}});
-//# sourceMappingURL=13.1f8c9cf715b72c57d6e8.js.map
