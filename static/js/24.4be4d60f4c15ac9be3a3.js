@@ -1,0 +1,2 @@
+webpackJsonp([24,4],{296:function(t,n){t.exports={rawContent:"\nCe projet datant un peu, je n’ai plus grand chose à disposition ! { .c-note .c-note--info }\n",metaData:{title:"Sandro Paris",image:"sandro",date:"2015-08-11 00:00:00",tags:["html/css"],clients:["Sandro Paris","Blondie","Italic"],categories:["non-classe"],template:"post",description:"",disqus:!0,publish:!0}}}});
+//# sourceMappingURL=24.4be4d60f4c15ac9be3a3.js.map
