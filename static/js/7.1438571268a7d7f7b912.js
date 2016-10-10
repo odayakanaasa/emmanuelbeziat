@@ -1,2 +1,0 @@
-webpackJsonp([7,4],{310:function(t,e){t.exports={rawContent:"\n**Saatchi** présente un ensemble de statistiques et de données sur la qualité de l’air en ville.\n\n![Sogitec](https://images.emmanuelbeziat.com/actforair-1.jpg)\n",metaData:{title:"Act For Air",image:"actforair",date:"2015-08-27 00:00:00",tags:["html/css","javascript"],clients:["Saatchi","Italic"],categories:["non-classe"],template:"post",description:"",disqus:!0,publish:!0}}}});
-//# sourceMappingURL=7.1438571268a7d7f7b912.js.map
