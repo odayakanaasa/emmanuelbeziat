@@ -3,7 +3,7 @@
   <title>Emmanuel Béziat</title>
   <link href="/atom.xml" rel="self"/>
   <link href="https://www.emmanuelbeziat.com"/>
-  <updated>2016-10-20T00:17:48.453Z</updated>
+  <updated>2016-10-20T00:32:29.488Z</updated>
   <id>https://www.emmanuelbeziat.com</id>
   <author>
     <name>Emmanuel Béziat</name>
@@ -12,11 +12,37 @@
   <generator uri="https://www.emmanuelbeziat.com"></generator>
   
     <entry>
-      <title></title>
-      <link href="https://www.emmanuelbeziat.com/2016-10-10-pourquoi-jindente-avec-tab.md"/>
-      <id>https://www.emmanuelbeziat.com/2016-10-10-pourquoi-jindente-avec-tab.md</id>
-      <published>2016-10-20T00:17:48.334Z</published>
-      <updated>2016-10-20T00:17:48.334Z</updated>
+      <title>Pourquoi j’indente avec « tab »</title>
+      <link href="https://www.emmanuelbeziat.com/undefined"/>
+      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <published>2016-10-10T02:00:00.000+0200</published>
+      <updated>2016-10-10T02:00:00.000+0200</updated>
+      <summary type="html">
+        
+          Au sein de la communauté des dev’ web, une guerre fait rage pour savoir s’il convient d’indenter son code avec deux espaces ou une tabulation.
+        
+      </summary>
+    </entry>
+  
+    <entry>
+      <title>Le nouveau logo d’Instagram ? On s’en fout !</title>
+      <link href="https://www.emmanuelbeziat.com/undefined"/>
+      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <published>2016-05-27T04:24:14.000+0200</published>
+      <updated>2016-05-27T04:24:14.000+0200</updated>
+      <summary type="html">
+        
+          c’est LE grand événement qui secoue la toile. La famine, la guerre ne comptent plus. Même Nabilla est reléguée au second plan médiatique. Parce qu’être Charlie ça va un temps, mais il ne faut pas non plus exagérer ! Oui, aujourd’hui, le grand malheur d’internet, c’est le nouveau logo d’Instagram.
+        
+      </summary>
+    </entry>
+  
+    <entry>
+      <title>Un site qui prend toute la hauteur disponible</title>
+      <link href="https://www.emmanuelbeziat.com/undefined"/>
+      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <published>2015-10-25T22:35:01.000+0100</published>
+      <updated>2015-10-25T22:35:01.000+0100</updated>
       <summary type="html">
         
           No summary
@@ -26,10 +52,10 @@
   
     <entry>
       <title></title>
-      <link href="https://www.emmanuelbeziat.com/2016-05-27-le-nouveau-logo-dinstagram-on-sen-fout.md"/>
-      <id>https://www.emmanuelbeziat.com/2016-05-27-le-nouveau-logo-dinstagram-on-sen-fout.md</id>
-      <published>2016-10-20T00:17:48.334Z</published>
-      <updated>2016-10-20T00:17:48.334Z</updated>
+      <link href="https://www.emmanuelbeziat.com/undefined"/>
+      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <published></published>
+      <updated></updated>
       <summary type="html">
         
           No summary
@@ -38,37 +64,11 @@
     </entry>
   
     <entry>
-      <title></title>
-      <link href="https://www.emmanuelbeziat.com/2015-10-25-un-site-qui-prend-toute-la-hauteur-disponible.md"/>
-      <id>https://www.emmanuelbeziat.com/2015-10-25-un-site-qui-prend-toute-la-hauteur-disponible.md</id>
-      <published>2016-10-20T00:17:48.334Z</published>
-      <updated>2016-10-20T00:17:48.334Z</updated>
-      <summary type="html">
-        
-          No summary
-        
-      </summary>
-    </entry>
-  
-    <entry>
-      <title></title>
-      <link href="https://www.emmanuelbeziat.com/2015-10-07-le-probleme-du-dev-web-daujourdhui.md"/>
-      <id>https://www.emmanuelbeziat.com/2015-10-07-le-probleme-du-dev-web-daujourdhui.md</id>
-      <published>2016-10-20T00:17:48.334Z</published>
-      <updated>2016-10-20T00:17:48.334Z</updated>
-      <summary type="html">
-        
-          No summary
-        
-      </summary>
-    </entry>
-  
-    <entry>
-      <title></title>
-      <link href="https://www.emmanuelbeziat.com/2015-09-26-centrer-un-element-absolu-ou-fixed.md"/>
-      <id>https://www.emmanuelbeziat.com/2015-09-26-centrer-un-element-absolu-ou-fixed.md</id>
-      <published>2016-10-20T00:17:48.334Z</published>
-      <updated>2016-10-20T00:17:48.334Z</updated>
+      <title>Centrer un élément absolu (ou fixed)</title>
+      <link href="https://www.emmanuelbeziat.com/undefined"/>
+      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <published>2015-09-26T13:12:02.000+0200</published>
+      <updated>2015-09-26T13:12:02.000+0200</updated>
       <summary type="html">
         
           No summary
