@@ -3,7 +3,7 @@
   <title>Emmanuel Béziat</title>
   <link href="/atom.xml" rel="self"/>
   <link href="https://www.emmanuelbeziat.com"/>
-  <updated>2016-10-20T00:32:29.488Z</updated>
+  <updated>2016-10-20T00:33:44.089Z</updated>
   <id>https://www.emmanuelbeziat.com</id>
   <author>
     <name>Emmanuel Béziat</name>
@@ -13,8 +13,8 @@
   
     <entry>
       <title>Pourquoi j’indente avec « tab »</title>
-      <link href="https://www.emmanuelbeziat.com/undefined"/>
-      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <link href="https://www.emmanuelbeziat.com/pourquoi-jindente-avec-tab"/>
+      <id>https://www.emmanuelbeziat.com/pourquoi-jindente-avec-tab</id>
       <published>2016-10-10T02:00:00.000+0200</published>
       <updated>2016-10-10T02:00:00.000+0200</updated>
       <summary type="html">
@@ -26,8 +26,8 @@
   
     <entry>
       <title>Le nouveau logo d’Instagram ? On s’en fout !</title>
-      <link href="https://www.emmanuelbeziat.com/undefined"/>
-      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <link href="https://www.emmanuelbeziat.com/le-nouveau-logo-dinstagram-on-sen-fout"/>
+      <id>https://www.emmanuelbeziat.com/le-nouveau-logo-dinstagram-on-sen-fout</id>
       <published>2016-05-27T04:24:14.000+0200</published>
       <updated>2016-05-27T04:24:14.000+0200</updated>
       <summary type="html">
@@ -39,8 +39,8 @@
   
     <entry>
       <title>Un site qui prend toute la hauteur disponible</title>
-      <link href="https://www.emmanuelbeziat.com/undefined"/>
-      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <link href="https://www.emmanuelbeziat.com/un-site-qui-prend-toute-la-hauteur-disponible"/>
+      <id>https://www.emmanuelbeziat.com/un-site-qui-prend-toute-la-hauteur-disponible</id>
       <published>2015-10-25T22:35:01.000+0100</published>
       <updated>2015-10-25T22:35:01.000+0100</updated>
       <summary type="html">
@@ -65,8 +65,8 @@
   
     <entry>
       <title>Centrer un élément absolu (ou fixed)</title>
-      <link href="https://www.emmanuelbeziat.com/undefined"/>
-      <id>https://www.emmanuelbeziat.com/undefined</id>
+      <link href="https://www.emmanuelbeziat.com/centrer-un-element-absolu-ou-fixed"/>
+      <id>https://www.emmanuelbeziat.com/centrer-un-element-absolu-ou-fixed</id>
       <published>2015-09-26T13:12:02.000+0200</published>
       <updated>2015-09-26T13:12:02.000+0200</updated>
       <summary type="html">
