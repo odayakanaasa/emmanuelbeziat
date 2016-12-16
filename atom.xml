@@ -3,13 +3,26 @@
   <title>Emmanuel Béziat</title>
   <link href="/atom.xml" rel="self"/>
   <link href="https://www.emmanuelbeziat.com"/>
-  <updated>2016-12-15T20:39:04.478Z</updated>
+  <updated>2016-12-16T19:51:38.458Z</updated>
   <id>https://www.emmanuelbeziat.com</id>
   <author>
     <name>Emmanuel Béziat</name>
     <email>contact@emmanuelbeziat.com</email>
   </author>
   <generator uri="https://www.emmanuelbeziat.com"></generator>
+  
+    <entry>
+      <title>Les burgers, j’arrête !</title>
+      <link href="https://www.emmanuelbeziat.com/blog/les-burgers-jarrete"/>
+      <id>https://www.emmanuelbeziat.com/blog/les-burgers-jarrete</id>
+      <published>2016-12-16T08:56:13.000+0100</published>
+      <updated>2016-12-16T08:56:13.000+0100</updated>
+      <summary type="html">
+        
+          No summary
+        
+      </summary>
+    </entry>
   
     <entry>
       <title>Pourquoi on ne parle pas de « CSS4 »</title>
@@ -56,19 +69,6 @@
       <id>https://www.emmanuelbeziat.com/blog/un-site-qui-prend-toute-la-hauteur-disponible</id>
       <published>2015-10-25T22:35:01.000+0100</published>
       <updated>2015-10-25T22:35:01.000+0100</updated>
-      <summary type="html">
-        
-          No summary
-        
-      </summary>
-    </entry>
-  
-    <entry>
-      <title></title>
-      <link href="https://www.emmanuelbeziat.com/blog/undefined"/>
-      <id>https://www.emmanuelbeziat.com/blog/undefined</id>
-      <published></published>
-      <updated></updated>
       <summary type="html">
         
           No summary
