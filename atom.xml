@@ -3,13 +3,26 @@
   <title>Emmanuel Béziat</title>
   <link href="/atom.xml" rel="self"/>
   <link href="https://www.emmanuelbeziat.com"/>
-  <updated>2016-12-22T02:30:51.991Z</updated>
+  <updated>2016-12-23T12:37:29.675Z</updated>
   <id>https://www.emmanuelbeziat.com</id>
   <author>
     <name>Emmanuel Béziat</name>
     <email>contact@emmanuelbeziat.com</email>
   </author>
   <generator uri="https://www.emmanuelbeziat.com"></generator>
+  
+    <entry>
+      <title>Les resets CSS : à la poubelle</title>
+      <link href="https://www.emmanuelbeziat.com/blog/les-resets-css-a-la-poubelle"/>
+      <id>https://www.emmanuelbeziat.com/blog/les-resets-css-a-la-poubelle</id>
+      <published>2016-12-23T13:31:07.000+0100</published>
+      <updated>2016-12-23T13:31:07.000+0100</updated>
+      <summary type="html">
+        
+          No summary
+        
+      </summary>
+    </entry>
   
     <entry>
       <title>Les burgers, j’arrête !</title>
@@ -59,19 +72,6 @@
       <summary type="html">
         
           c’est LE grand événement qui secoue la toile. La famine, la guerre ne comptent plus. Même Nabilla est reléguée au second plan médiatique. Parce qu’être Charlie ça va un temps, mais il ne faut pas non plus exagérer ! Oui, aujourd’hui, le grand malheur d’internet, c’est le nouveau logo d’Instagram.
-        
-      </summary>
-    </entry>
-  
-    <entry>
-      <title>Un site qui prend toute la hauteur disponible</title>
-      <link href="https://www.emmanuelbeziat.com/blog/un-site-qui-prend-toute-la-hauteur-disponible"/>
-      <id>https://www.emmanuelbeziat.com/blog/un-site-qui-prend-toute-la-hauteur-disponible</id>
-      <published>2015-10-25T22:35:01.000+0100</published>
-      <updated>2015-10-25T22:35:01.000+0100</updated>
-      <summary type="html">
-        
-          No summary
         
       </summary>
     </entry>
