@@ -1,14 +1,148 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-  <loc>https://www.emmanuelbeziat.com/</loc>
-  <lastmod>2016-12-25T15:32:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/les-resets-css-a-la-poubelle</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/les-burgers-jarrete</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/pourquoi-on-ne-parle-pas-de-css4</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/pourquoi-jindente-avec-tab</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/le-nouveau-logo-dinstagram-on-sen-fout</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/un-site-qui-prend-toute-la-hauteur-disponible</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/centrer-un-element-absolu-ou-fixed</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/colonne-verticale-sur-toute-la-hauteur-de-page</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/conseils-aux-graphistes-web</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/comment-bien-suivre-un-tutoriel</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/pourquoi-jai-desactive-mon-repondeur</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/votre-idee-ne-vaut-rien-ploum</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/conventions-et-normes-de-codage</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/participez-au-web</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/regles-htmlcss-pour-les-debutants</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/bien-utiliser-les-sprites-css</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/site-epingle-avec-internet-explorer</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/les-decouvertes-du-web-2</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/non-vous-ne-faites-pas-du-responsive</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/windows-8-est-tres-bien</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/des-barres-de-progression-toutes-simples-en-css</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/principes-du-css-les-selecteurs-partie-2-css3</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/mon-top-des-mauvaises-pratiques-web</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/desactiver-le-hover-pour-un-scroll-fluide</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/linformatique-facile-ma-tue</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/les-decouvertes-du-web-1</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/principes-du-css-poids-des-declarations</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/principes-du-css-les-selecteurs-partie1-css2</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/internet-explorer-mon-amour</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/prefixes-css-jusqua-quand</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/utiliser-les-proprietes-de-police-avec-une-font-web</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/changer-une-image-au-survol</loc>
+  </url>
+
+  <url>
+    <loc>https://www.emmanuelbeziat.com/blog/aligner-trois-colonnes-proprement</loc>
+  </url>
+
 </urlset>
