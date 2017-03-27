@@ -92,7 +92,9 @@ module.exports = {
 		conservativeCollapse: true,
 		collapseBooleanAttributes: true,
 		removeTagWhitespace: false,
-		removeStyleLinkTypeAttributes: true
+		removeStyleLinkTypeAttributes: true,
+		removeComments: true,
+		minifyJS: true
 	},
 
 	/*
